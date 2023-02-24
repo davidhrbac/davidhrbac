@@ -14,7 +14,8 @@
   <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img alt="OpenShift" src="https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
-  <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=Rancher&logoColor=white" />
+  <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img alt="Kubespray" src="https://img.shields.io/badge/-Kubespray-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ## Other
