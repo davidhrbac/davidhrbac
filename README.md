@@ -22,7 +22,7 @@
 
 <h3 align="center">Infrastructure as a code</h3>
 <p align="center">
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-7B42BC?style=for-the-badge&logo=Ansible&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
   <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-FFAE1A?style=for-the-badge&logo=vmware&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
 </p>
