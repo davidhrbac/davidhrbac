@@ -31,7 +31,10 @@
 
 <h3 align="center">Other</h3>
 <p align="center">
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="Ruby on rails" src="https://img.shields.io/badge/-Ruby on rails-CC0000?style=for-the-badge&logo=Rubyonrails&logoColor=white" />
   <img alt="Timescale" src="https://img.shields.io/badge/-Timescale-FDB515?style=for-the-badge&logo=timescale&logoColor=white" />
 </p>
 
