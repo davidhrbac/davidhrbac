@@ -4,6 +4,7 @@
 <h3 align="center">Programming languages</h3>
 <p align="center">
   <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img alt="GNU Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?style=for-the-badge&logo=GNU Bash&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
