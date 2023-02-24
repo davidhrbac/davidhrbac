@@ -10,8 +10,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-## Platforms
-
+<h3 align="center">Platforms</h3>
 <p align="center">
   <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img alt="OpenShift" src="https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
@@ -20,8 +19,7 @@
   <img alt="Kubespray" src="https://img.shields.io/badge/-Kubespray-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-## Other
-
+<h3 align="center">Other</h3>
 <p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img alt="Timescale" src="https://img.shields.io/badge/-Timescale-FDB515?style=for-the-badge&logo=timescale&logoColor=white" />
