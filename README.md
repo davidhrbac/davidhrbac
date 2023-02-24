@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## Programming languages
 
+<h3 align="center">Programming languages</h3>
 <p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
