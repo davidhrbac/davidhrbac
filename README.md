@@ -5,7 +5,7 @@
   <img alt="OpenShift" src="https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
   <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=Rancher&logoColor=white" />
-  <img alt="Timescale" src="https://img.shields.io/badge/-Timescale-FDB515?style=for-the-badge&logo=Rancher&logoColor=white" />
+  <img alt="Timescale" src="https://img.shields.io/badge/-Timescale-FDB515?style=for-the-badge&logo=timescale&logoColor=white" />
 </p>
 
 <p align="center">
