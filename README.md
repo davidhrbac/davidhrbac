@@ -2,7 +2,7 @@
 
 ## Programming languages
 
-<p>
+<p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,7 +10,7 @@
 
 ## Platforms
 
-<p>
+<p align="center">
   <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img alt="OpenShift" src="https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
@@ -19,7 +19,7 @@
 
 ## Other
 
-<p>
+<p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img alt="Timescale" src="https://img.shields.io/badge/-Timescale-FDB515?style=for-the-badge&logo=timescale&logoColor=white" />
 </p>
