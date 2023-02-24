@@ -3,21 +3,28 @@
 
 <h3 align="center">Programming languages</h3>
 <p align="center">
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </p>
 
 <h3 align="center">Platforms</h3>
 <p align="center">
-  <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img alt="Kubespray" src="https://img.shields.io/badge/-Kubespray-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="OpenShift" src="https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
   <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
-  <img alt="Kubespray" src="https://img.shields.io/badge/-Kubespray-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
+
+<h3 align="center">Infrastructure as a code</h3>
+<p align="center">
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-7B42BC?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img alt="Puppet" src="https://img.shields.io/badge/-Puppet-FFAE1A?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 
 <h3 align="center">Other</h3>
