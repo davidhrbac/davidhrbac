@@ -28,6 +28,15 @@
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
 </p>
 
+<h3 align="center">Programming languages</h3>
+<p align="center">
+  <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white" />
+  <img alt="Red Hat" src="https://img.shields.io/badge/-Red Hat-B32629?style=for-the-badge&logo=Red Hat&logoColor=white" />
+  <img alt="Rocky Linux" src="https://img.shields.io/badge/-Rocky Linux-10B981?style=for-the-badge&logo=RockyLinux&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+</p>
+
 <h3 align="center">Other</h3>
 <p align="center">
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
